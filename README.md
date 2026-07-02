@@ -23,7 +23,7 @@
 
 ## 🔗 Live Demo
 
-> **[🚀 View the live demo](https://REPLACE-WITH-YOUR-VERCEL-URL.vercel.app)**  ← _deploy to Vercel and drop your URL here_
+> ### 🔗 [**Live demo → nordhaus-seven.vercel.app**](https://nordhaus-seven.vercel.app/)
 
 > _Tip: add a screenshot or GIF to `public/preview.png` and reference it here so the repo reads at a glance._
 
